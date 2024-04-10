@@ -142,13 +142,13 @@ header nav[aria-expanded="true"] .nav-hamburger-icon::after {
 header .nav-brand {
   grid-area: brand;
   flex-basis: 128px;
-  font-size: var(--heading-font-size-l);
+  font-size: var(--heading-font-size-s);
   font-weight: 700;
   line-height: 1;
 }
 
 header nav .nav-brand img {
-  width: 256px;
+  width: 128px;
   height: auto;
 }
 
@@ -248,7 +248,7 @@ header nav .nav-sections ul > li > ul > li {
     width: 200px;
     margin-top: 12px;
     padding: 1em;
-    background-color: var(--dark-color);
+    background-color: var(--light-color);
     white-space: initial;
   }
 
@@ -261,7 +261,7 @@ header nav .nav-sections ul > li > ul > li {
     height: 0;
     border-left: 8px solid transparent;
     border-right: 8px solid transparent;
-    border-bottom: 8px solid var(--dark-color);
+    border-bottom: 8px solid var(--light-color);
   }
 
   header nav .nav-sections .default-content-wrapper > ul > li > ul > li {
