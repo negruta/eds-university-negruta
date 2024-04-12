@@ -1,4 +1,4 @@
-User-agent: *
-Allow: /
+user-agent: *
+allow: /
 
-Sitemap: https://main--eds-university-negruta--negruta.hlx.live/sitemap.xml
+sitemap: https://main--eds-university-negruta--negruta.hlx.live/sitemap.xml

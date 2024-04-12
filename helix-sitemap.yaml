@@ -1,3 +1,5 @@
+version: 1
+
 sitemaps:
   example:
     source: /query-index.json
